@@ -42,9 +42,7 @@ Présentation des objectifs du dossier en lien avec les compétences REAC. Cette
 ## Présentation d’éléments de sécurité de l’application
 
 - Défense en profondeur : Techniques pour une sécurité à plusieurs niveaux.
-- Réduction de la surface d’attaque
-- Politique de moindre privilège : Limitation des privilèges d’accès.
-- RGPD : Mesures de conformité.
+- Réduction de la surface d’attaque.
 
 ## Spécifications techniques
 
@@ -59,9 +57,9 @@ Présentation des objectifs du dossier en lien avec les compétences REAC. Cette
 
 ### BDD
 
-- Sécurisation BDD 
-- Point RGPD
+- Sécurisation BDD : politiques des mots-de-passe, de sauvegarde
 - Dictionnaire de données
+- Point RGPD
 - Modélisation Merise : Schéma conceptuel et logique de la base de données.
 
 ## Extraits de code
